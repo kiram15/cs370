@@ -1,0 +1,18 @@
+README 
+======
+
+This package includes the following files.
+
+|—- Makefile [compiles all files]
+|—- scheduler.c [File that executes scheduler process]
+|—- README.txt [This file]
+
+To compile:
+    make 
+
+To run:
+    ./Scheduler <file>
+
+For example;
+    ./Scheduler file1
+
