@@ -1,7 +1,7 @@
 README 
 ======
 
-This package includes the following files.
+This program centers around CPU Scheduling algorithms and implements First Come First Served, Shortest Job First, and Priority Scheduling. This package includes the following files.
 
 |—- Makefile [compiles all files]
 |—- scheduler.c [File that executes scheduler process]
